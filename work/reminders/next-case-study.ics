@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FlyRank ML Internship//Next Case Study Reminder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:next-case-study-future-window-content-recovery-20261201@flyrank-ml-internship
+DTSTAMP:20261111T000000Z
+DTSTART:20261201T090000
+DTEND:20261201T091500
+SUMMARY:Start or update next case study
+DESCRIPTION:Future-Window Content Recovery Monitor. Write the three beats: problem, what I did, what came of it. Link the first rerunnable artifact and keep the existing Claude Project context.
+RRULE:FREQ=MONTHLY;BYDAY=TU;BYSETPOS=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Start or update the Future-Window Content Recovery Monitor case study.
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
