@@ -92,7 +92,7 @@
   <header class="topbar">
     <div class="topbar-inner">
       <div class="mark">Research artifact · ML-09 / ML-10 / ML-11</div>
-      <nav aria-label="Paper sections"><a href="#method">Method</a><a href="#results">Results</a><a href="#recommendations">Recommendations</a><a href="#reproducibility">Reproduce</a></nav>
+      <nav aria-label="Paper sections"><a href="#method">Methodology</a><a href="#results">Results</a><a href="#recommendations">Ranked recommendations</a><a href="#reproducibility">Reproduce</a></nav>
     </div>
   </header>
 
@@ -130,7 +130,7 @@
     </section>
 
     <section id="method">
-      <div class="section-head"><div class="section-num">03 · Method</div><h2>Validation is part of the result.</h2></div>
+      <div class="section-head"><div class="section-num">03 · Methodology</div><h2>Validation is part of the result.</h2></div>
       <p>Numeric inputs cover demand, activity, age, position, CTR, engagement, scroll, AI traffic, and log-transformed volumes. Categorical inputs cover content type, intent, age, freshness, word-count, impression, and position tiers. The model comparison includes logistic regression, a shallow decision tree, and a random forest selected by Precision@50.</p>
       <p>The recorded holdout is client-aware: held-out clients do not appear in training. The baseline is a transparent rules score evaluated on the same test rows. A leakage audit excludes <code>trend_direction</code>, <code>trend_pct</code>, <code>content_id</code>, <code>client_id</code>, and decision-derived product flags.</p>
       <div class="callout"><strong>Claim boundary.</strong> The model can rank and flag items out of sample on this snapshot. It cannot prove a feature causes decline, predict Google's algorithm, or guarantee that a refresh will recover performance.</div>
@@ -169,7 +169,7 @@
     </section>
 
     <section id="recommendations">
-      <div class="section-head"><div class="section-num">06 · Recommendations</div><h2>A ranked action playbook.</h2></div>
+      <div class="section-head"><div class="section-num">06 · Ranked recommendations</div><h2>A ranked action playbook.</h2></div>
       <p>The queue is designed to make the next review meeting sharper. Each item carries a score, confidence label, suggested action, and reason codes that a reviewer can challenge.</p>
       <div class="recommendations">
         <div class="recommendation"><div><h3>Start with visible decline</h3><p>Inspect high-score pages with demand plus a down trend or elevated model risk. Confirm current intent and factual freshness before deciding whether a refresh is warranted.</p></div></div>
