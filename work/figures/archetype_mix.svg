@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="34" text-anchor="middle" font-family="Arial" font-size="24" fill="#16232a">Archetype mix</text>
+<text x="178" y="116.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">unclear_low_signal</text>
+<rect x="190" y="70.0" width="730.0" height="72.0" fill="#4E79A7" rx="4"/>
+<text x="928.0" y="116.8" font-family="Arial" font-size="13" fill="#27343b">1.05e+04</text>
+<text x="178" y="198.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">visible_low_ctr</text>
+<rect x="190" y="152.0" width="679.4" height="72.0" fill="#4E79A7" rx="4"/>
+<text x="877.4" y="198.8" font-family="Arial" font-size="13" fill="#27343b">9.74e+03</text>
+<text x="178" y="280.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">visible_decline</text>
+<rect x="190" y="234.0" width="439.0" height="72.0" fill="#4E79A7" rx="4"/>
+<text x="637.0" y="280.8" font-family="Arial" font-size="13" fill="#27343b">6.3e+03</text>
+<text x="178" y="362.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">engaged_weak_experience</text>
+<rect x="190" y="316.0" width="238.2" height="72.0" fill="#4E79A7" rx="4"/>
+<text x="436.2" y="362.8" font-family="Arial" font-size="13" fill="#27343b">3.42e+03</text>
+<text x="178" y="444.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">thin_visible_page</text>
+<rect x="190" y="398.0" width="5.7" height="72.0" fill="#4E79A7" rx="4"/>
+<text x="203.7" y="444.8" font-family="Arial" font-size="13" fill="#27343b">82</text>
+</svg>

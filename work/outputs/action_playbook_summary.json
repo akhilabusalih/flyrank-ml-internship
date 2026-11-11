@@ -1,0 +1,11 @@
+{
+  "high_confidence_rows": 3576,
+  "review_effort_counts": {
+    "focused_review": 3576,
+    "monitor_batch": 15000,
+    "sampled_review": 11424
+  },
+  "rows_scored": 30000,
+  "top_queue_score": 81.92846726727652,
+  "top_ranked_action": "refresh_and_review_ctr"
+}
